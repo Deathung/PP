@@ -14,7 +14,7 @@ namespace PP
 				}
 				Console.Write("\n");
 			}
-			Console.WriteLine("I'll crashed");
+			Console.WriteLine("crashed");
 		}
 	}
 }
