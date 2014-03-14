@@ -1,0 +1,5 @@
+/Users/Moure/Projects/PP/PP/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Moure/Projects/PP/PP/bin/Debug/PP.exe.mdb
+/Users/Moure/Projects/PP/PP/bin/Debug/PP.exe
+/Users/Moure/Projects/PP/PP/obj/x86/Debug/PP.exe
+/Users/Moure/Projects/PP/PP/obj/x86/Debug/PP.exe.mdb
