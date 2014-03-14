@@ -14,11 +14,7 @@ namespace PP
 				}
 				Console.Write("\n");
 			}
-			//<<<<<<< HEAD
 			Console.WriteLine("I'll crashed");
-			//=======
-			Console.WriteLine("Crash Test");
-			//>>>>>>> test
 		}
 	}
 }
