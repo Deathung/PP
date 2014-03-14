@@ -14,6 +14,7 @@ namespace PP
 				}
 				Console.Write("\n");
 			}
+			Console.WriteLine("Crash Test");
 		}
 	}
 }
